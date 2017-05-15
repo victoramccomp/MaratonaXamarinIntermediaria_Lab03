@@ -13,5 +13,15 @@ C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\Xama
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\obj\Debug\XamarinLab03.App.xaml.g.cs
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\obj\Debug\XamarinLab03.dll
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\obj\Debug\XamarinLab03.pdb
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\bin\Debug\XamarinLab03.dll.config
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\bin\Debug\Newtonsoft.Json.dll
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\bin\Debug\System.Net.Http.dll
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\bin\Debug\Newtonsoft.Json.xml
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\bin\Debug\System.Net.Http.xml
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\obj\Debug\XamarinLab03.csproj.App.config
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\obj\Debug\XamarinLab03.dll.mdb
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03\bin\Debug\XamarinLab03.dll.mdb
