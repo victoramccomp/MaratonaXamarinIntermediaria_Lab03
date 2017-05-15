@@ -71,5 +71,7 @@ C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\Xama
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03.Android\obj\Debug\android\assets\XamarinLab03.Android.dll.mdb
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03.Android\obj\Debug\android\assets\XamarinLab03.dll.mdb
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03.Android\bin\Debug\XamarinLab03.Android.dll.config
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03.Android\bin\Debug\Newtonsoft.Json.xml
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03.Android\obj\Debug\XamarinLab03.Android.dll.mdb
 C:\Users\victo\Source\Repos\MaratonaXamarinIntermediaria_Lab03\XamarinLab03\XamarinLab03.Android\bin\Debug\XamarinLab03.Android.dll.mdb

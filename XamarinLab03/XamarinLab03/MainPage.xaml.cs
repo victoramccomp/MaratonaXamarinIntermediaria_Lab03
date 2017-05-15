@@ -12,6 +12,12 @@ namespace XamarinLab03
         public MainPage()
         {
             InitializeComponent();
+
+            this.btnCarregar.Clicked += async (sender, e) =>
+            {
+                var tags = await Api.GetTagsAsync();
+                this.lvwTags.ItemsSource = tags;
+            };
         }
     }
 }
